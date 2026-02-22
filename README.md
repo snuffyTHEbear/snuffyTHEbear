@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **snuffyTHEbear/snuffyTHEbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<img width="1920" height="1080" alt="iso" src="https://github.com/user-attachments/assets/e74dc7a5-0e97-415a-82bb-807b5c8a664f" />
