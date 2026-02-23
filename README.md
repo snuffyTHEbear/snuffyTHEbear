@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY4ZzFqZzR3eXN4bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx9uOqh6Yp2/giphy.gif" width="150" /><br>
+      <img src="https://github.com/snuffyTHEbear/snuffyTHEbear/blob/main/rik.webp" width="150" /><br>
       <p align="center"><b>"I can't code."</b></p>
     </td>
     <td>
