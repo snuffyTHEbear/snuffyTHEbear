@@ -21,7 +21,6 @@
   <tr>
     <td>
       <img src="https://github.com/snuffyTHEbear/snuffyTHEbear/blob/main/rik.webp" width="150" /><br>
-      <p align="center"><b>"I can't code."</b></p>
     </td>
     <td>
       <b>Mood:</b>Confused<br>
