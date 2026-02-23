@@ -3,14 +3,16 @@
 </p>
 
 <p align="center">
+  "I have a cunning plan... but it'll probably result in a Segmentation Fault."
+</p>
+
+<p align="center">
   <img src="https://web.archive.org/web/20090821132011if_/http://geocities.com/EnchantedForest/7150/stu.gif" />
 </p>
 
 <p align="center">
   <b>[ <u>Stumbler of languages</u> ] [ <u>Isometric Enthusiast</u> ] [ <u>Irn Bru powered liability</u> ]</b>
 </p>
-
----
 
 <table align="center">
   <tr>
@@ -42,15 +44,12 @@
 
 <p align="center">
   <img src="https://web.archive.org/web/20090804113119im_/http://geocities.com/Hollywood/Hills/2742/construction.gif" />
-</p> 
-<p align="center">
-  "I have a cunning plan... but it'll probably result in a Segmentation Fault."
 </p>
 <table align="center">
   <tr>
     <td align="center"><b>AS3</b></td>
     <td  align="center"><i>"Web Dev"</i></td>
-    <td></td>
+    <td align="center"><u>The closer</u></td>
   </tr>
   <tr>
     <td> I remember it so you don't have to. It's basically a fossil now.</td>
