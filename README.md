@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/snuffyTHEbear/snuffyTHEbear/blob/main/rik.webp" width="150" /><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY4ZzFqZzR3eXN4bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx9uOqh6Yp2/giphy.gif" width="150" /><br>
       <p align="center"><b>"I can't code."</b></p>
     </td>
     <td>
@@ -46,9 +46,9 @@
 <p alig="center">
   "I have a cunning plan... but it'll probably result in a Segmentation Fault."
 </p>
-* **AS3:** I remember it so you don't have to. It's basically a fossil now.
-* **The Struggle:** Sticking divs together with virtual spit and prayers.
-* **The Vibe:** Imagine if *Bottom* was a software agency. That's me.
+* **AS3:** I remember it so you don't have to. It's basically a fossil now.<br/>
+* **The Struggle:** Sticking divs together with virtual spit and prayers.<br/>
+* **The Vibe:** Imagine if *Bottom* was a software agency. That's me.<br/>
 
 <p align="center">
   <a href="mailto:rob.daniels3@gmail.com">
