@@ -31,9 +31,9 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odin-FAIL-blue?style=plastic" /> 
-  <img src="https://img.shields.io/badge/C++-SCARY-red?style=plastic" />
-  <img src="https://img.shields.io/badge/AS3-RETRO-orange?style=plastic" />
+  <img src="https://img.shields.io/badge/Odin-blue?style=plastic" /> 
+  <img src="https://img.shields.io/badge/C++-red?style=plastic" />
+  <img src="https://img.shields.io/badge/AS3-orange?style=plastic" />
 </p>
 
 <p align="center">
@@ -42,16 +42,12 @@
 
 <p align="center">
   <img src="https://web.archive.org/web/20090804113119im_/http://geocities.com/Hollywood/Hills/2742/construction.gif" />
+</p> 
+<p alig="center">
+  "I have a cunning plan... but it'll probably result in a Segmentation Fault."
 </p>
-
-- **The Main Offence:** Attempting to wrestle with **Odin** and **C++**. It’s mostly just me shouting at a compiler until it gives up out of pity.
-- **Web "Development":** Sticking divs together with virtual spit and prayers. 
-- **Ancient History:** I still remember my way around **ActionScript 3**.
-
-"I have a cunning plan... but it'll probably result in a Segmentation Fault."
-
 * **AS3:** I remember it so you don't have to. It's basically a fossil now.
-* **The Struggle:** I spent 4 hours today trying to center a `<div>`.
+* **The Struggle:** Sticking divs together with virtual spit and prayers.
 * **The Vibe:** Imagine if *Bottom* was a software agency. That's me.
 
 <p align="center">
