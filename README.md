@@ -48,8 +48,8 @@
 </p>
 <table align="center">
   <tr>
-    <td>AS3</td>
-    <td>"Web Dev"</td>
+    <td align="center"><b>AS3</b></td>
+    <td  align="center"><i>"Web Dev"</i></td>
     <td></td>
   </tr>
   <tr>
