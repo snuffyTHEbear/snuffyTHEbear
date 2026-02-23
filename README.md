@@ -43,13 +43,16 @@
 <p align="center">
   <img src="https://web.archive.org/web/20090804113119im_/http://geocities.com/Hollywood/Hills/2742/construction.gif" />
 </p> 
-<p alig="center">
+<p align="center">
   "I have a cunning plan... but it'll probably result in a Segmentation Fault."
 </p>
-* **AS3:** I remember it so you don't have to. It's basically a fossil now.<br/>
-* **The Struggle:** Sticking divs together with virtual spit and prayers.<br/>
-* **The Vibe:** Imagine if *Bottom* was a software agency. That's me.<br/>
-
+<table align="center">
+  <tr>
+<td>AS3</td><td> I remember it so you don't have to. It's basically a fossil now.</td>
+<td>The Struggle</td><td> Sticking divs together with virtual spit and prayers.</td>
+<td>The Vibe</td><td> Imagine if *Bottom* was a software agency. That's me.</td>
+</tr>
+</table>
 <p align="center">
   <a href="mailto:rob.daniels3@gmail.com">
     <img src="https://img.shields.io/badge/Comms-Transmission_for_Rimmer-7a2f2f?style=for-the-badge" />
