@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://web.archive.org/web/20090829041357im_/http://geocities.com/EnchantedForest/7150/welcom7.gif" />
+  <img src="https://web.archive.org/web/20090821132011if_/http://geocities.com/EnchantedForest/7150/stu.gif" />
 </p>
 
 <p align="center">
