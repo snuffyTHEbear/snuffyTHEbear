@@ -48,10 +48,15 @@
 </p>
 <table align="center">
   <tr>
-<td>AS3</td><td> I remember it so you don't have to. It's basically a fossil now.</td>
-<td>The Struggle</td><td> Sticking divs together with virtual spit and prayers.</td>
-<td>The Vibe</td><td> Imagine if *Bottom* was a software agency. That's me.</td>
-</tr>
+    <td>AS3</td>
+    <td>"Web Dev"</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> I remember it so you don't have to. It's basically a fossil now.</td>
+    <td> Sticking divs together with virtual spit and prayers.</td>
+    <td> Imagine if *Bottom* was a software agency. That's me.</td>
+  </tr>
 </table>
 <p align="center">
   <a href="mailto:rob.daniels3@gmail.com">
