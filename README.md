@@ -23,8 +23,7 @@
 
 - **The Main Offence:** Attempting to wrestle with **Odin** and **C++**. It’s mostly just me shouting at a compiler until it gives up out of pity.
 - **Web "Development":** Sticking divs together with virtual spit and prayers. 
-- **Ancient History:** I still remember my way around **ActionScript 3**. It’s a bit like knowing how to repair a steam engine in a world of electric cars.
-- **Current Struggle:** Trying to understand [Insert Topic] without causing a localized subspace rupture.
+- **Ancient History:** I still remember my way around **ActionScript 3**.
 
 > "I have a cunning plan... but it'll probably result in a Segmentation Fault."
 
