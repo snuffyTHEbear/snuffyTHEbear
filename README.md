@@ -2,49 +2,58 @@
   <img width="100%" src="https://github.com/user-attachments/assets/e74dc7a5-0e97-415a-82bb-807b5c8a664f" alt="Header Banner" />
 </p>
 
-<h1 align="center">I can't code.</h1>
-
 <p align="center">
-  <strong>Stumbler of Languages • Isometric Enthusiast • Tea-Powered Liability</strong>
+  <img src="https://web.archive.org/web/20090829041357im_/http://geocities.com/EnchantedForest/7150/welcom7.gif" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odin-764ABC?style=for-the-badge&logo=odin&logoColor=white" />
-  <img src="https://img.shields.io/badge/AS3-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,js,threejs&theme=dark" />
-  </a>
+  <b>[ <u>Stumbler of languages</u> ] [ <u>Isometric Enthusiast</u> ] [ <u>Irn Bru powered liability</u> ]</b>
 </p>
 
-^^^
+---
 
---- The Current State of Affairs
+<table align="center">
+  <tr>
+    <td bgcolor="#000080" colspan="2"><font color="#ffffff"><b>&nbsp;snuffyTHEbear's Information</b></font></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY4ZzFqZzR3eXN4bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpx9uOqh6Yp2/giphy.gif" width="150" /><br>
+      <p align="center"><b>"I can't code."</b></p>
+    </td>
+    <td>
+      <b>Mood:</b>Confused<br>
+      <b>Listening to:</b> <i>Red Dwarf Theme (8-bit Remix)</i><br><br>
+      <b>Stumbling through:</b> Odin, C++, and AS3.<br>
+      <b>Location:</b> In a stasis leak.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Odin-FAIL-blue?style=plastic" /> 
+  <img src="https://img.shields.io/badge/C++-SCARY-red?style=plastic" />
+  <img src="https://img.shields.io/badge/AS3-RETRO-orange?style=plastic" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css,js&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://web.archive.org/web/20090804113119im_/http://geocities.com/Hollywood/Hills/2742/construction.gif" />
+</p>
 
 - **The Main Offence:** Attempting to wrestle with **Odin** and **C++**. It’s mostly just me shouting at a compiler until it gives up out of pity.
 - **Web "Development":** Sticking divs together with virtual spit and prayers. 
 - **Ancient History:** I still remember my way around **ActionScript 3**.
 
-> "I have a cunning plan... but it'll probably result in a Segmentation Fault."
+"I have a cunning plan... but it'll probably result in a Segmentation Fault."
 
---- Ministry of Silly Code
+* **AS3:** I remember it so you don't have to. It's basically a fossil now.
+* **The Struggle:** I spent 4 hours today trying to center a `<div>`.
+* **The Vibe:** Imagine if *Bottom* was a software agency. That's me.
 
-| Status | Badge | Reason |
-| :--- | :--- | :--- |
-| **Current Rank** | ![Smeghead](https://img.shields.io/badge/Rank-Smeghead-blue?style=flat-square) | Failed the Rimmer Leadership Challenge. |
-| **Brain Activity** | ![Holly](https://img.shields.io/badge/IQ-6000-red?style=flat-square) | Same as 6000 PE teachers. |
-| **Sanity** | ![Bottom](https://img.shields.io/badge/Mental_State-Hammersmith_Hardman-orange?style=flat-square) | Spending too long in C++ header files. |
-
-^^^
-
---- Disaster Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snuffyTHEbear&show_icons=true&theme=blood&hide_border=true" alt="Stats" />
-</p>
-
-^^^
-
---- Contact the Disaster Zone
 <p align="center">
   <a href="mailto:rob.daniels3@gmail.com">
     <img src="https://img.shields.io/badge/Comms-Transmission_for_Rimmer-7a2f2f?style=for-the-badge" />
